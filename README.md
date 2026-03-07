@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rishik
 
 🎓 B.Tech Electrical & Electronics Engineering (EEE) student at **NIT Andhra Pradesh**  
-⚡ Passionate about **Machine Learning, VLSI Design, and Intelligent Energy Systems**  
-🚀 Interested in building systems that combine **AI with hardware and energy technologies**
+- Passionate about **Machine Learning, VLSI Design, and Intelligent Energy Systems**  
+- Interested in building systems that combine **AI with hardware and energy technologies**
 
 ---
 
