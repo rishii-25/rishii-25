@@ -82,21 +82,6 @@ Goal: Improve **energy efficiency in smart city infrastructure**.
 
 ---
 
-## 📊 Current Learning Journey
-
-Currently learning **Machine Learning from scratch by implementing algorithms manually.**
-
-Algorithms implemented so far:
-
-- Linear Regression
-- Logistic Regression
-- Ridge Regression
-- Lasso Regression
-- Elastic Net
-- Naive Bayes
-- Gaussian Naive Bayes
-
----
 
 ## 🎯 Goals
 
