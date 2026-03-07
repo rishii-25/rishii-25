@@ -61,7 +61,7 @@ Goal: Improve **energy efficiency in smart city infrastructure**.
 
 - python
 - verilog(basic)
-**Machine Learning**
+- Machine Learning
 - NumPy
 - Pandas
 - Scikit-learn
