@@ -11,14 +11,11 @@
 ### 🔋 EV Battery Predictive Intelligence System
 Developing a Machine Learning system to predict:
 
-- State of Charge (SoC)
-- State of Health (SoH)
-- Remaining Useful Life (RUL)
+- Soc , SoH , RUL
 
 Techniques being explored:
 - CNN + LSTM Hybrid Models
 - Bidirectional LSTM
-- Attention Mechanisms
 - Isolation Forest for anomaly detection
 
 Goal: Improve **battery reliability and predictive maintenance for electric vehicles.**
@@ -30,7 +27,6 @@ Goal: Improve **battery reliability and predictive maintenance for electric vehi
 **1. ML-based Delay and Power Predictor**  
 Using Machine Learning models to estimate **circuit delay and power consumption in VLSI circuits**.
 
-
 ---
 
 ## 🧠 Areas of Interest
@@ -39,17 +35,6 @@ Using Machine Learning models to estimate **circuit delay and power consumption 
 - Deep Learning
 - VLSI Design
 - Embedded Systems
-
----
-
-## 🛠️ Tools & Technologies
-
-- python
-- verilog(basic)
-- Machine Learning
-- NumPy
-- Pandas
-- Scikit-learn
 
 ---
 
