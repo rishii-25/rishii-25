@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Currently Working On
+##  Currently Working On
 
 ### 🔋 EV Battery Predictive Intelligence System
 Developing a Machine Learning system to predict:
@@ -22,14 +22,14 @@ Goal: Improve **battery reliability and predictive maintenance for electric vehi
 
 ---
 
-### ⚡ ML + VLSI Projects
+###  ML + VLSI Projects
 
 **1. ML-based Delay and Power Predictor**  
 Using Machine Learning models to estimate **circuit delay and power consumption in VLSI circuits**.
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
 - Machine Learning
 - Deep Learning
@@ -38,7 +38,7 @@ Using Machine Learning models to estimate **circuit delay and power consumption 
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Combine **Machine Learning with VLSI design**
 - Build **AI driven hardware optimization systems**
@@ -46,7 +46,7 @@ Using Machine Learning models to estimate **circuit delay and power consumption 
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 - Email: rishik25t4@gmail.com
 - LinkedIn: www.linkedin.com/in/rishii25t4
