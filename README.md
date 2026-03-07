@@ -59,26 +59,12 @@ Goal: Improve **energy efficiency in smart city infrastructure**.
 
 ## 🛠️ Tools & Technologies
 
-**Programming**
-- Python
-- C
-
+- python
+- verilog(basic)
 **Machine Learning**
 - NumPy
 - Pandas
 - Scikit-learn
-
-**Hardware & Embedded**
-- STM32
-- ESP32
-- Sensor interfacing
-- ADC systems
-
-**Tools**
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- MATLAB
 
 ---
 
