@@ -30,19 +30,6 @@ Goal: Improve **battery reliability and predictive maintenance for electric vehi
 **1. ML-based Delay and Power Predictor**  
 Using Machine Learning models to estimate **circuit delay and power consumption in VLSI circuits**.
 
----
-
-### 🌞 Smart Solar Street Light System
-
-An IoT-based intelligent street lighting system featuring:
-
-- Adaptive brightness based on traffic
-- Solar energy optimization
-- Voltage and current monitoring
-- Dust detection on solar panels
-- IoT monitoring using **ESP32 and Blynk**
-
-Goal: Improve **energy efficiency in smart city infrastructure**.
 
 ---
 
@@ -52,8 +39,6 @@ Goal: Improve **energy efficiency in smart city infrastructure**.
 - Deep Learning
 - VLSI Design
 - Embedded Systems
-- AI for Hardware Optimization
-- Intelligent Energy Systems
 
 ---
 
@@ -67,7 +52,6 @@ Goal: Improve **energy efficiency in smart city infrastructure**.
 - Scikit-learn
 
 ---
-
 
 ## 🎯 Goals
 
