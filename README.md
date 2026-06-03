@@ -1,57 +1,103 @@
 # 👋 Hi, I'm Rishik
 
-🎓 B.Tech Electrical & Electronics Engineering (EEE) student at **NIT Andhra Pradesh**  
-- Passionate about **Machine Learning, VLSI Design, and Intelligent Energy Systems**  
-- Interested in building systems that combine **AI with hardware and energy technologies**
+🎓 Third-Year B.Tech Electrical & Electronics Engineering (EEE) Student at **NIT Andhra Pradesh**
+
+💡 Passionate about **Machine Learning, VLSI Design, Computer Vision, Embedded Systems, and Intelligent Energy Systems**
 
 ---
 
-##  Currently Working On
+## 🚀 About Me
+
+- 🔬 Research Intern at **IIT Bhilai**
+- 🤖 Interested in the intersection of AI and Hardware
+- ⚡ Exploring Machine Learning applications in VLSI and Energy Systems
+- 📚 Continuously learning and building real-world engineering solutions
+
+---
+
+## 🔭 Currently Working On
+
+
+### Learning & Research
+
+- Deep Learning
+- Computer Vision
+- AI for VLSI Design Automation
+- Semiconductor Design Workflows
+
+---
+
+## 🏆 Featured Projects
+
+### 🎨 COLORAD (Color-Aware Region Diffusion)
+
+Image Inpainting and Restoration Research Project developed during my internship at IIT Bhilai.
 
 ### 🔋 EV Battery Predictive Intelligence System
-Developing a Machine Learning system to predict:
 
-- Soc , SoH , RUL
+Machine Learning-based system for:
+- State of Charge (SoC) Prediction
+- State of Health (SoH) Estimation
+- Remaining Useful Life (RUL) Prediction
 
-Techniques being explored:
-- CNN + LSTM Hybrid Models
-- Bidirectional LSTM
-- Isolation Forest for anomaly detection
+### ☀️ Smart Solar Street Light Monitoring System
 
-Goal: Improve **battery reliability and predictive maintenance for electric vehicles.**
-
----
-
-###  ML + VLSI Projects
-
-**1. ML-based Delay and Power Predictor**  
-Using Machine Learning models to estimate **circuit delay and power consumption in VLSI circuits**.
+IoT-based smart street lighting solution with real-time monitoring and energy analytics.
 
 ---
 
-##  Areas of Interest
+## 🛠️ Technical Skills
+
+### Programming
+
+- Python
+- C
+- C++
+
+### Machine Learning & AI
+
+- Scikit-Learn
+- TensorFlow
+- Keras
+- Pandas
+- NumPy
+
+### VLSI & Embedded Systems
+
+- Digital Electronics
+- VLSI Design Fundamentals
+- Embedded Systems
+
+### Tools
+
+- Git & GitHub
+- Jupyter Notebook
+- Kaggle
+- VS Code
+- Arduino IDE
+
+---
+
+## 🎯 Areas of Interest
 
 - Machine Learning
 - Deep Learning
+- Computer Vision
 - VLSI Design
+- Semiconductor Technologies
 - Embedded Systems
+- Intelligent Energy Systems
 
 ---
 
-##  Goals
+## 📫 Connect With Me
 
-- Combine **Machine Learning with VLSI design**
-- Build **AI driven hardware optimization systems**
-- Develop **intelligent energy systems for sustainable technology**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishik%20T-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishii25t4)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-rishii--25-black?style=for-the-badge&logo=github)](https://github.com/rishii-25)
 
-##  How to Reach Me
-
-- Email: rishik25t4@gmail.com
-- LinkedIn: www.linkedin.com/in/rishii25t4
-- GitHub: https://github.com/rishii-25
+📧 **Email:** rishik25t4@gmail.com
 
 ---
 
-⭐ Always open to collaborations in **Machine Learning, VLSI, and Energy Systems**.
+⭐ Open to collaborations in Machine Learning, Computer Vision, VLSI Design, and Embedded Systems.
