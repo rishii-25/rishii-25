@@ -96,6 +96,8 @@ IoT-based smart street lighting solution with real-time monitoring and energy an
 
 [![GitHub](https://img.shields.io/badge/GitHub-rishii--25-black?style=for-the-badge&logo=github)](https://github.com/rishii-25)
 
+kaggle: https://www.kaggle.com/rishik25t4
+
 📧 **Email:** rishik25t4@gmail.com
 
 ---
