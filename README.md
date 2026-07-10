@@ -33,9 +33,13 @@
 
 Image Inpainting and Restoration Research Project developed during my internship at IIT Bhilai.
 
-### 🎨 ML-STA ENGINE
+###  ML-STA ENGINE
 
 ML-STA Engine combines semiconductor physics with machine learning to deliver fast and accurate gate delay prediction while extending the prediction to complete circuit-level Static Timing Analysis through timing propagation and critical path extraction.
+
+### GradGen AI
+
+AI powered multi featured toolkit for engineering students
 
 ### 🔋 EV Battery Predictive Intelligence System
 
@@ -44,11 +48,6 @@ Machine Learning-based system for:
 - State of Health (SoH) Estimation
 - Remaining Useful Life (RUL) Prediction
 
-### ☀️ Smart Solar Street Light Monitoring System
-
-IoT-based smart street lighting solution with real-time monitoring and energy analytics.
-
----
 
 ## 🛠️ Technical Skills
 
