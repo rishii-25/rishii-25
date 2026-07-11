@@ -2,7 +2,7 @@
 
 🎓 Pre-Final Year B.Tech Electrical & Electronics Engineering (EEE) Student at **NIT Andhra Pradesh**
 
-💡 Passionate about **Machine Learning, VLSI Design, Computer Vision, Embedded Systems, and Intelligent Energy Systems**
+💡 Passionate about **Machine Learning, VLSI Design, Computer Vision(Medical),  Embedded Systems, and Intelligent Energy Systems**
 
 ---
 
