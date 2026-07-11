@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishik
 
-🎓 Third-Year B.Tech Electrical & Electronics Engineering (EEE) Student at **NIT Andhra Pradesh**
+🎓 Pre-Final Year B.Tech Electrical & Electronics Engineering (EEE) Student at **NIT Andhra Pradesh**
 
 💡 Passionate about **Machine Learning, VLSI Design, Computer Vision, Embedded Systems, and Intelligent Energy Systems**
 
